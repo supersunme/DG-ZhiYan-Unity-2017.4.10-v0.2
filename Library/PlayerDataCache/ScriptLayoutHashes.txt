@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/pc/Desktop/东莞莞盐/东莞莞盐.exe
+C:/Users/pc/Desktop/2018-10-22-东莞莞盐App/东莞莞盐.exe
 SceneListBegin?
 Assets/Scenes/main.unity
 SceneListEnd?
